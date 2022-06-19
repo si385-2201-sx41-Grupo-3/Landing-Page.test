@@ -136,3 +136,14 @@ header {
         display: initial;
     }
 }
+
+.home {
+    position: relative;
+    padding: 2rem;
+    background: var(--background-color);
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+
